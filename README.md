@@ -1,4 +1,4 @@
-# Reasons why you should join Santa Clara University
+# Santa Clara University MSIS Program at a Glance
 
 # Objective
 
