@@ -1,8 +1,19 @@
-# Lab-Session-8
+# Reasons why you should join Santa Clara University
 
 # Objective
 
 The objective of this lab is to redesign and critique the existing Lab 5 visualization.
+
+# Sponsor
+
+Professor Michael Schermann - Santa Clara University
+
+# Data
+
+Data Sources: U.S News, University websites and Glassdoor
+https://docs.google.com/document/d/1UwWduhi5m_cXjWvtYO1X6sFu84U9AlQDjzisHy-pOR4/edit?usp=sharing
+
+# Metrics
 
 # Visualization Critique
 
