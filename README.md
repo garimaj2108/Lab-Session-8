@@ -15,7 +15,19 @@ https://docs.google.com/document/d/1UwWduhi5m_cXjWvtYO1X6sFu84U9AlQDjzisHy-pOR4/
 
 # Metrics
 
-# Visualization Critique
+1st Metric: University Ranking, Acceptance Rate, Student-to-Faculty ratio
+
+This metric conveys program ranking, the average acceptance rate of students who apply for programs at the college and Student to teacher ratio. An amalgmation of these factors help students decide on a college, Santa Clara's MSIS program is  ranked 26th nationally, with a high acceptance rate of 48% and a expectionally high student-to-faculty ratio of 9:1. 
+
+2nd Metric: Campus Safety 
+
+For Parents and students alike, campus safety is top priority. Students should be able to solely focus on studies and that is only possible in a secure environment. So this metric gives prospective students an insight into the crime rates on campus to help them make right decisions about their security and education.
+
+3rd Metric: Bay Area Average Salaries vs National Average
+
+Every student wants to enroll in a college which affords them the promise of brighter future through great jobs. This metric helps students determine ROI, by providing salary comparisons between Bay Area vs National average for MSIS specific job profiles.
+
+# Existing Visualization Critique
 
 Link:https://docs.google.com/presentation/d/1iKoRXqQVP0NrSpPUzb9xZ4X8XjXiKJKhl32tDm5uEPg/edit?usp=sharing
 
@@ -56,10 +68,8 @@ This will give students all information required to decide on the University for
 I have implemented all the points suggested in Roadmap to make this visualization truly impactful.
 
 Redesign Link:
-https://public.tableau.com/profile/garima8871#!/vizhome/RedesignLabSession5-Iteration3/Story1?publish=yes
+https://public.tableau.com/profile/garima8871#!/vizhome/RedesignLabSession5-Iteration4/Story1?publish=yes
 
-Data Sources: U.S News, University websites and Glassdoor
-https://docs.google.com/document/d/1UwWduhi5m_cXjWvtYO1X6sFu84U9AlQDjzisHy-pOR4/edit?usp=sharing
 
 Detail about how data is compared: 
 - In this visualization I have compared the University rankings, its acceptance rate and student-to-faculty ratio to provide an insight into a University's calibre vis-a-vis its difficulty rate to get an admit.
@@ -79,3 +89,6 @@ Iteration 2:
 https://public.tableau.com/profile/garima8871#!/vizhome/RedesignLabSession5-Iteration2/Story1?publish=yes
 - In this visualization, initially I was comparing average salaries across different cities in California, I changed it in Iteration 3 to standardize with Bay Area scope restriction 
 
+Iteration 3:
+https://public.tableau.com/profile/garima8871#!/vizhome/RedesignLabSession5-Iteration3/Story1?publish=yes
+- In this visualization, I was using tables to represent university rankings, acceptance rates and student-to-faculty ratio data. In iteration 4, I have integrated acceptance rates and student-to-faculty ratio datasets and presented them on a scatter plot for easier comparison.
